@@ -1,3 +1,4 @@
 # first-repo
 this is my first repository
-Author-Gagan B T
+<br>
+<h1>Author-Gagan B T</h1>
